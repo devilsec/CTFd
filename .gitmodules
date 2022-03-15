@@ -1,3 +1,6 @@
 [submodule "CTFd/plugins/discord-webhook-plugin"]
 	path = CTFd/plugins/discord-webhook-plugin
 	url = git@github.com:sigpwny/ctfd-discord-webhook-plugin.git
+[submodule "CTFd/plugins/docker-challenges"]
+	path = CTFd/plugins/docker-challenges
+	url = git@github.com:daylamtayari/CTFd-Docker-Challenges.git
